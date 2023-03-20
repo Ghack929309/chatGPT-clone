@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+serviceAccountKey.json
 
 # testing
 /coverage
@@ -30,6 +31,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+.vscode
 
 # typescript
 *.tsbuildinfo
